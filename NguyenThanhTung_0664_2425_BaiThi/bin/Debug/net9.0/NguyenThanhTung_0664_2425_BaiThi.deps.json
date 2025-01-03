@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "NguyenThanhTung_0664_2425_BaiThi/1.0.0": {
+        "runtime": {
+          "NguyenThanhTung_0664_2425_BaiThi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NguyenThanhTung_0664_2425_BaiThi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

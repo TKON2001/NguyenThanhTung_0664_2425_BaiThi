@@ -1,0 +1,14 @@
+C:\Users\Acer\NguyenThanhTung_0664_2425_BaiThi\bin\Debug\net9.0\NguyenThanhTung_0664_2425_BaiThi.exe
+C:\Users\Acer\NguyenThanhTung_0664_2425_BaiThi\bin\Debug\net9.0\NguyenThanhTung_0664_2425_BaiThi.deps.json
+C:\Users\Acer\NguyenThanhTung_0664_2425_BaiThi\bin\Debug\net9.0\NguyenThanhTung_0664_2425_BaiThi.runtimeconfig.json
+C:\Users\Acer\NguyenThanhTung_0664_2425_BaiThi\bin\Debug\net9.0\NguyenThanhTung_0664_2425_BaiThi.dll
+C:\Users\Acer\NguyenThanhTung_0664_2425_BaiThi\bin\Debug\net9.0\NguyenThanhTung_0664_2425_BaiThi.pdb
+C:\Users\Acer\NguyenThanhTung_0664_2425_BaiThi\obj\Debug\net9.0\NguyenThanhTung_0664_2425_BaiThi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\NguyenThanhTung_0664_2425_BaiThi\obj\Debug\net9.0\NguyenThanhTung_0664_2425_BaiThi.AssemblyInfoInputs.cache
+C:\Users\Acer\NguyenThanhTung_0664_2425_BaiThi\obj\Debug\net9.0\NguyenThanhTung_0664_2425_BaiThi.AssemblyInfo.cs
+C:\Users\Acer\NguyenThanhTung_0664_2425_BaiThi\obj\Debug\net9.0\NguyenThanhTung_0664_2425_BaiThi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\NguyenThanhTung_0664_2425_BaiThi\obj\Debug\net9.0\NguyenThanhTung_0664_2425_BaiThi.dll
+C:\Users\Acer\NguyenThanhTung_0664_2425_BaiThi\obj\Debug\net9.0\refint\NguyenThanhTung_0664_2425_BaiThi.dll
+C:\Users\Acer\NguyenThanhTung_0664_2425_BaiThi\obj\Debug\net9.0\NguyenThanhTung_0664_2425_BaiThi.pdb
+C:\Users\Acer\NguyenThanhTung_0664_2425_BaiThi\obj\Debug\net9.0\NguyenThanhTung_0664_2425_BaiThi.genruntimeconfig.cache
+C:\Users\Acer\NguyenThanhTung_0664_2425_BaiThi\obj\Debug\net9.0\ref\NguyenThanhTung_0664_2425_BaiThi.dll
